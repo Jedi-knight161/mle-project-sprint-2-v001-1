@@ -9,8 +9,8 @@ s3-student-mle-20240325-31df1ce58e
 
 Последовательность шагов:
 
-git clone <ссылка-на-ваш-репозиторий>
-cd <название-вашего-проекта>
+git clone https://github.com/Jedi-knight161
+cd mle-project-sprint-2-v001-1
 sudo apt-get update
 sudo apt-get install python3.10-venv
 python3.10 -m venv .venv_project_name
